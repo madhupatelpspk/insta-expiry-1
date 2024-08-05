@@ -1,4 +1,4 @@
-Версия 2. Изменения:
+Версия 4. Изменения:
 
 >Added Short Video Comments Copy
 >Added Dislike Button

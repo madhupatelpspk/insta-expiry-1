@@ -1,4 +1,4 @@
-Version 4. Changelog:
+Version 3. Changelog:
 
 >Added Short Video Comments Copy
 >Added Dislike Button

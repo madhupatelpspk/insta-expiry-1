@@ -1,4 +1,4 @@
-Version 28. Changelog:
+Version 2. Changelog:
 
 >Added Short Video Comments Copy
 >Added Dislike Button

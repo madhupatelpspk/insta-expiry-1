@@ -1,4 +1,4 @@
-Версия 28. Изменения:
+Версия 2. Изменения:
 
 >Added Short Video Comments Copy
 >Added Dislike Button

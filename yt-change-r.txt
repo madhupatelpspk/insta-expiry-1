@@ -1,8 +1,4 @@
-Версия 28. Изменения:
+Версия 31. Изменения:
 
->Added Short Video Comments Copy
->Added Dislike Button
->Added Download Settings
->Added SponsorBlock Settings
->Base Update 17.04.36
+>Fixed Download button 
 >Bugs Fixed

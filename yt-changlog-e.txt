@@ -1,4 +1,4 @@
-Version 31. Changelog:
+Version 32. Changelog:
 
 >Fixed Download button 
 >Bugs Fixed

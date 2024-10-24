@@ -1,5 +1,5 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Download Update V11.60",
   "content_url": "",
   "positive_btn": "Download Now",

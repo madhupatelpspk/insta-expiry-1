@@ -1,17 +1,1 @@
-{
-  "Gold": {
-    "update_code": "6",
-    "reminder_time": "3",
-    "update_version": "v9.40",
-    "com.instagram.android": "https://instagold.download/update",
-    "com.instagold.android": "https://instagold.download/update",
-    "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 9.40</p>
-<li>Ù…Ø´ÙƒÙ„Ø© Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø± Ø¹Ù†Ø¯ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ù„Ù„Ù…Ø­Ø§Ø¯Ø«Ø§Øª</li>
-<li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
-
-<li>Crash when entering chats</li>
-<li>Other fixes</li>
-"
-    }
-}
+{'updateVer':'96', 'displayType':'video', 'https://www.instamod.net/p/instapro-v1196-fixed-update-download.html' , 'other':'https://www.instamod.net/p/instapro-v1196-fixed-update-download.html'}

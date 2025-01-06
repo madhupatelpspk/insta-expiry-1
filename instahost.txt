@@ -1,1 +1,1 @@
-{'updateVer':'98', 'displayText':'video show...', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/look.mp4', 'other':'https://www.instamod.net/p/instapro-v1196-fixed-update-download.html'}
+{'updateVer':'97', 'displayText':'video show...', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/look.mp4', 'other':'https://www.instamod.net/p/instapro-v1196-fixed-update-download.html'}

@@ -1,1 +1,1 @@
-{'updateVer':'97', 'displayText':'Download GBWhatsApp 😍', 'displayType':'link', 'videoLink':'https://sammods.github.io/insta-expiry/look.mp4', 'other':'https://www.whatsappmods.io/2023/12/download-gbwhatsapp.html'}
+{'updateVer':'98', 'displayText':'Download GBWhatsApp 😍', 'displayType':'link', 'videoLink':'https://sammods.github.io/insta-expiry/look.mp4', 'other':'https://www.whatsappmods.io/2023/12/download-gbwhatsapp.html'}

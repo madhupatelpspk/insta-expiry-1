@@ -1,1 +1,1 @@
-{'updateVer':'97', 'displayText':'Download Antiban GBWhatsApp 😍', 'displayType':'link', 'videoLink':'https://sammods.github.io/insta-expiry/look.mp4', 'other':'https://www.whatsappmods.io/2023/12/download-gbwhatsapp.html'}
+{'updateVer':'98', 'displayText':'How To Update InstaPro', 'displayType':'link', 'videoLink':'https://sammods.github.io/insta-expiry/download-insta.mp4', 'other':'https://www.instamod.me/2024/09/instapro.html'}

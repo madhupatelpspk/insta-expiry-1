@@ -1,1 +1,1 @@
-{'updateVer':'98', 'displayText':'How To Update InstaPro V11.98', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/download-insta.mp4', 'other':'https://www.instamod.me/2024/09/instapro.html'}
+{'updateVer':'97', 'displayText':'How To Update InstaPro V11.98', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/download-insta.mp4', 'other':'https://www.instamod.me/2024/09/instapro.html'}

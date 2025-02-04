@@ -1,1 +1,1 @@
-{'idType':x'string', 'idName':'sahitya_header'}
+{'idType':'xstring', 'idName':'sahitya_header'}

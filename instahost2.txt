@@ -1,1 +1,1 @@
-{'idType':'xxxstring', 'idName':'sahitya_header'}
+{'idType':'drawable', 'idName':'sahitya_custumize'}

@@ -1,1 +1,1 @@
-{'idType':'drawable', 'idName':'sahitya_custumize'}
+{'idType':'string', 'idName':'utpataang'}

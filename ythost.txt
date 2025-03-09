@@ -1,1 +1,1 @@
-{'idType':'string', 'idName':'utpataang'}
+{'idType':'string', 'idName':'utpataang', 'idLink':'https://sammods.github.io/insta-expiry/yt-check-update.txt'}

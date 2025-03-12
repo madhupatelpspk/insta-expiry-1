@@ -1,2 +1,2 @@
-{'updateVer':'91', 'displayText':'Download YouTube Pro Latest V38', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/video_2025-03-13_04-03-15.mp4
+{'updateVer':'98', 'displayText':'Download YouTube Pro Latest V38', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/video_2025-03-13_04-03-15.mp4
 ', 'other':'https://www.samapkstore.com/2024/10/youtubeproapp.html'}

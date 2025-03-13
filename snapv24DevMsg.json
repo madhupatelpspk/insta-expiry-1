@@ -1,7 +1,7 @@
 {
-  "show_message": false,
+  "show_message": true,
   "title": "Important Announcement",
-  "content_url": " ",
+  "content_url": "https://sammods.github.io/insta-expiry/importt.html",
   "positive_btn": "LET'S Download",
   "link": "https://www.apkchatpro.com/2024/03/download-snapchatpro-latest-version-v10.html",
   "cancelable": true

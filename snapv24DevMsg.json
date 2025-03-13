@@ -1,5 +1,5 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Important Announcement",
   "content_url": "https://sammods.github.io/insta-expiry/importt.html",
   "positive_btn": "LET'S Download",

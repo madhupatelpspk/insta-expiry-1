@@ -1,1 +1,1 @@
-{'idType':'xxxx', 'idName':'xxx', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}
+{'idType':'color', 'idName':'sahitya_custom_color', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}

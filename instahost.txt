@@ -1,1 +1,1 @@
-{'updateVer':'100', 'displayText':'Download Snapchat Pro Antiban ', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/video_2025-03-13_04-03-15.mp4', 'other':'https://www.apkchatpro.com/2024/03/download-snapchat-thunder-latest.html'}
+{'updateVer':'999', 'displayText':'Download Snapchat Pro Antiban ', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/video_2025-03-13_04-03-15.mp4', 'other':'https://www.apkchatpro.com/2024/03/download-snapchat-thunder-latest.html'}

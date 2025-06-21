@@ -1,1 +1,1 @@
-{'idType':'drawable', 'idName':'zz_ic_200', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}
+{'idType':'xxxx', 'idName':'xxxxx', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}

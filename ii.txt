@@ -1,1 +1,1 @@
-{'idType':'color', 'idName':'sahitya_custom_color', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}
+{'idType':'drawable', 'idName':'zz_ic_200', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}

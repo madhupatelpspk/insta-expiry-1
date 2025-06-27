@@ -1,1 +1,1 @@
-{'updateVer':'0', 'displayText':'Download Snapchat Thunder Antiban ', 'displayType':'video', 'videoLink':'https://sammods.github.io/insta-expiry/InShot_20250521_230424210.mp4', 'other':'https://www.apkchatpro.com/2024/03/download-snapchat-thunder-latest.html'}
+{'updateVer':'0', 'displayText':'Update Found InstaPro v12.40 ', 'displayType':'link', 'videoLink':'https://sammods.github.io/insta-expiry/InShot_20250521_230424210.mp4', 'other':'https://www.instamod.co/2021/10/instapro-latest-version-apk-download.html'}
